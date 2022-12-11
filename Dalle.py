@@ -2,7 +2,7 @@ import openai
 import urllib.request
 from PIL import Image
 import cv2
-import streamlit as st
+import streamlit as st  //UI
 
 openai.api_key = "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"
 
